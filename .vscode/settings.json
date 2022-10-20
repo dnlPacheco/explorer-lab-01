@@ -1,8 +1,8 @@
 {
   // editor
   "editor.wordWrap": "on",
-  "editor.fontSize": 18,
-  "editor.lineHeight": 30,
+  "editor.fontSize": 13,
+  "editor.lineHeight": 20,
   "editor.tabSize": 2,
   "editor.bracketPairColorization.enabled": true,
   "editor.guides.bracketPairs": true,
@@ -21,9 +21,9 @@
   // prettier
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "prettier.enable": true,
-  "prettier.singleQuote": false,
+  "prettier.singleQuote": true,
   "prettier.tabWidth": 2,
-  "prettier.semi": false,
+  "prettier.semi": true,
 
   // terminal
   "terminal.integrated.fontSize": 16,
